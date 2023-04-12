@@ -58,5 +58,5 @@ In my free time, I love developing tools to streamline repetitive activities, to
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanMaAV92&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanMaAV92&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
