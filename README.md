@@ -1,5 +1,3 @@
----
-[![](https://visitcount.itsvg.in/api?id=juanMaAV92&icon=0&color=0)](https://visitcount.itsvg.in)
 # 👋 About Me:
 [![LinkedIn](https://img.shields.io/badge/-juanMaAV92-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmaav92/) 
 [![GitHub Paintoxic](https://img.shields.io/github/followers/juanMaAV92?label=follow&style=social)](https://github.com/juanMaAV92)
