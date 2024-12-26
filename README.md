@@ -32,6 +32,7 @@ In my free time, I love developing tools to streamline repetitive activities, to
 
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+    ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)  
     
 
 - Frontend Development
@@ -48,6 +49,7 @@ In my free time, I love developing tools to streamline repetitive activities, to
     ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
     ![Oracle Inst](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+    ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%2300708A.svg?style=flat-square&logo=apache-kafka&logoColor=white)  
     [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
     [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
