@@ -1,12 +1,13 @@
 # 👋 About Me:
 [![LinkedIn](https://img.shields.io/badge/-juanMaAV92-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmaav92/) 
-[![GitHub Paintoxic](https://img.shields.io/github/followers/juanMaAV92?label=follow&style=social)](https://github.com/juanMaAV92)
+[![GitHub JuanMa](https://img.shields.io/github/followers/juanMaAV92?label=follow&style=social)](https://github.com/juanMaAV92)
 
 Backend developer at [YUNO](https://www.y.uno/).
 
-Electronic engineer, master in automation. Passionate about software development, industrial automation and advanced control systems.
+Electronic Engineer MSc. focused on backend software development, with experience in microservices architectures and optimization of scalable systems. I have worked in startup environments and multidisciplinary projects, collaborating with backend, mobile, and product teams to implement efficient technological solutions.
 
-In my free time, I love developing tools to streamline repetitive activities, to improve efficiency 🚀 and minimize human error.
+Experience in languages such as Go, Kotlin, Python, and C (microcontrollers), and platforms like Node.js. Proficient in technologies like PostgreSQL, Redis, MongoDB, Docker, and Git; and frameworks like FastAPI, NestJS, Echo, Vert.x, and Spring Boot, as well as monitoring tools like Datadog.
+I am interested in continuing to contribute to the development of cutting-edge technologies.
 
 
 
