@@ -18,6 +18,13 @@ I design and ship microservices that hold up under real traffic. Electronic Engi
 
 ---
 
+### 📦 Featured Project
+
+**[PDF Tool](https://github.com/juanMaAV92/pdf-tool)** — Cross-platform desktop app to compress, merge, protect & watermark PDFs, fully offline.
+<br><sub>Python · Flet · plugin architecture · pure-logic/UI split · pytest · CI + automated macOS/Windows releases.</sub>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
