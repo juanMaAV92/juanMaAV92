@@ -20,7 +20,7 @@ I design and ship microservices that hold up under real traffic. Electronic Engi
 
 ### 📦 Featured Project
 
-[![PDF Tool](https://github-readme-stats.vercel.app/api/pin/?username=juanMaAV92&repo=pdf-tool&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/juanMaAV92/pdf-tool)
+[![PDF Tool](https://github-readme-stats.vercel.app/api/pin/?username=juanMaAV92&repo=pdf-tool&theme=tokyonight&hide_border=true&show_owner=false&v=2)](https://github.com/juanMaAV92/pdf-tool)
 
 <sub>Python · Flet · plugin architecture · pure-logic/UI split · pytest · CI + automated macOS/Windows releases.</sub>
 
