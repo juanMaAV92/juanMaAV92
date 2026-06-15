@@ -18,7 +18,20 @@ I design and ship microservices that hold up under real traffic. Electronic Engi
 
 ---
 
-### 📦 Featured Project
+### 📦 Featured Projects
+
+**Platform libraries** — reusable foundations I built for microservices, in two stacks. Observability-first, interface/port-driven, fully tested with CI:
+
+<a href="https://github.com/juanMaAV92/go-utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMaAV92&repo=go-utils&theme=tokyonight&hide_border=true&show_owner=false&v=2" />
+</a>
+<a href="https://github.com/juanMaAV92/kotlin-utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMaAV92&repo=kotlin-utils&theme=tokyonight&hide_border=true&show_owner=false&v=2" />
+</a>
+
+<sub>🧩 Used by my service templates: <a href="https://github.com/juanMaAV92/go-echo-blueprint">go-echo-blueprint</a> (Echo) · <a href="https://github.com/juanMaAV92/kotlin-quarkus-blueprint">kotlin-quarkus-blueprint</a> (Quarkus + hexagonal).</sub>
+
+**Desktop app**
 
 [![PDF Tool](https://github-readme-stats.vercel.app/api/pin/?username=juanMaAV92&repo=pdf-tool&theme=tokyonight&hide_border=true&show_owner=false&v=2)](https://github.com/juanMaAV92/pdf-tool)
 
