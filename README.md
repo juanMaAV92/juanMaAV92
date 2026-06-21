@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanMaAV92-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmaav92/)
 [![Follow](https://img.shields.io/github/followers/juanMaAV92?label=Follow&style=flat-square&logo=github)](https://github.com/juanMaAV92)
 
-**Backend Engineer** · distributed systems & microservices.
+**Backend Engineer & Tech Lead** · distributed systems & microservices.
 
-I design and ship microservices that hold up under real traffic. Electronic Engineer (MSc) who moved into backend, with a soft spot for clean architecture, observability, and systems that fail gracefully. I've worked across startups and multidisciplinary teams, shipping alongside backend, mobile, and product.
+I design the architecture, build the microservices behind it, and lead the team that keeps them running. I build distributed, event-driven systems that hold up under real traffic. Electronic Engineer (MSc), with a focus on clean architecture, observability, and systems that fail gracefully.
 
 ---
 
